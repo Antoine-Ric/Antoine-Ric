@@ -8,16 +8,6 @@
 **Graduation:** August 2024  
 **GPA:** 3.51
 
-**Relevant Courses:**  
-- Programming Distributed Systems in Python
-- Network System Administration
-- Operating Systems
-- Data Structures/Algorithms
-- Object-Oriented Programming
-- Full-Stack Development in C#
-- Software Engineering
-- Databases
-
 ## 💻 Technical Skills
 **Languages:**  
 - C++ (Excellent)
@@ -63,6 +53,16 @@ Prepared presentations on system improvements, conducted industry research, and 
 **Organization:** Center for Academic Retention & Engagement at FSU, Tallahassee, FL  
 **Date:** February 2023 – August 2023  
 Facilitated a seamless transition for 370 first-generation students during a 7-week program, organizing workshops and leveraging technology to improve resource accessibility.
+
+**Relevant Courses:**  
+- Programming Distributed Systems in Python
+- Network System Administration
+- Operating Systems
+- Data Structures/Algorithms
+- Object-Oriented Programming
+- Full-Stack Development in C#
+- Software Engineering
+- Databases
 
 ## 👑 Leadership Experience
 - **President**, Big Brother Little Brother Mentoring Program, Inc. (2023-2024)
